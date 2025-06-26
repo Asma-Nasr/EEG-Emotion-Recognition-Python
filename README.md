@@ -30,5 +30,5 @@ pip install -r requirements.txt
 
 - Clone the repository
 ```bash
-https://github.com/Asma-Nasr/EEG-Emotion-Recognition-Python.git
+git clone https://github.com/Asma-Nasr/EEG-Emotion-Recognition-Python.git
 ```
