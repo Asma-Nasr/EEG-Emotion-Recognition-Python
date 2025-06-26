@@ -6,6 +6,7 @@ Classify Emotions using EEG signals in Python
 - [Requirements](#requirements)
 - [Dataset](#Dataset)
 - [Source Code](#Source-Code)
+- [Notebooks](#Notebooks)
 - [Usage](#usage)
 
 ## Requirements
@@ -21,6 +22,9 @@ pip install -r requirements.txt
 
 ## Source Code
 [Source Code](https://github.com/Asma-Nasr/EEG-Emotion-Recognition-Python/tree/main/src)
+
+## Notebooks
+[Notebooks](https://github.com/Asma-Nasr/EEG-Emotion-Recognition-Python/tree/main/Notebooks)
 
 ## Usage
 
