@@ -27,7 +27,7 @@ pip install -r requirements.txt
 [Notebooks](https://github.com/Asma-Nasr/EEG-Emotion-Recognition-Python/tree/main/Notebooks)
 
 ## Usage
-
+  
 - Clone the repository
 ```bash
 git clone https://github.com/Asma-Nasr/EEG-Emotion-Recognition-Python.git
