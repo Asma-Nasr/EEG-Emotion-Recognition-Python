@@ -10,7 +10,7 @@ Classify Emotions using EEG signals in Python
 - [Usage](#usage)
 
 ## Requirements
-
+ 
 You can install the required libraries using pip:
 
 ```bash
