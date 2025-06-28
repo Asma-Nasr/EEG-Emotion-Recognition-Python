@@ -1,1 +1,1 @@
-# Dataset for EEG Eotion Detection
+# Dataset for EEG Emotion Detection
